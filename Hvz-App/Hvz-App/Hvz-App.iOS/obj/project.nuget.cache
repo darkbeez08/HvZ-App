@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KCi2+VTbDZNmmpoeFlm2ZHZYsNulAC9n/qRQe/lP8np4yDzxyb4mAW/w4BPU/7FlR5O+NWYfYIFufPoiNEoGwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\darkb\\Desktop\\Hvz App\\Hvz-App\\Hvz-App\\Hvz-App.iOS\\Hvz-App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darkb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
